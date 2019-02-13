@@ -10,6 +10,8 @@ Websites will be run on Google Chrome browser with 1920 x 1080 windows screen. T
 2. [FirstMedia Header](#firstmedia-header)
 3. [Pos Indonesia](#pos-indonesia)
 
+Video Link: [https://youtu.be/zJJzzDFgqOY](https://youtu.be/zJJzzDFgqOY)
+
 <em>Extra: bold sentences point out the design mistakes and given solutions.</em>
 
 ## Shopee (E-Commerce)
@@ -53,4 +55,4 @@ Lastly, **this gif for Contact Me is rather annoying**. It is placed at the top 
 
 ![Pos Indonesia Kodepos](images/kantorpos-1.png "Pos Indonesia Pos Order")
 
-&emsp;&emsp;&emsp;Another part bad design in the sidebar menu is the **logo of click here Pos Order**. It only show a logo asking to be clicked, without further description what is PosOrder. After the cursor hover to the logo, it shows a red drop shadow around the logo. The color pallette for drop shadow is not suitable since red color is usually used to show alert or danger. The solution is probably ** giving a tooltip to give brief explanation of PosOrder and change a hover drop shadow to a neutral color such as dark grey**.
+&emsp;&emsp;&emsp;Another part bad design in the sidebar menu is the **logo of click here Pos Order**. It only show a logo asking to be clicked, without further description what is PosOrder. After the cursor hover to the logo, it shows a red drop shadow around the logo. The color pallette for drop shadow is not suitable since red color is usually used to show alert or danger. The solution is probably **giving a tooltip to give brief explanation of PosOrder and change a hover drop shadow to a neutral color such as dark grey**.
