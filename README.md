@@ -8,7 +8,7 @@ This assignment will cover about bad design and bad user experience, which are t
 Websites will be run on Google Chrome browser with 1920 x 1080 windows screen. The website features discussed will be:
 1. [Shopee Shopping Cart](#shopee-e-commerce)
 2. [FirstMedia Header](#firstmedia-header)
-3. 
+3. [Pos Indonesia](#pos-indonesia)
 
 <em>Extra: bold sentences point out the design mistakes and given solutions.</em>
 
@@ -42,3 +42,15 @@ Websites will be run on Google Chrome browser with 1920 x 1080 windows screen. T
 ![FirstMedia Header](images/callus_webai-textPSTN_txt.gif "First Media Contact Me")
 
 Lastly, **this gif for Contact Me is rather annoying**. It is placed at the top right in header menu with vast size, it's gold pallete color is distracting, and it's moving motion is ridiculous. The supporting critique given will be **move the contact me button at fixed position on bottom-right of the page** and the design should be keep simple with neutral color choice.
+
+## Pos Indonesia
+
+![Pos Indonesia Kodepos](images/kantorpos-0.png "Pos Indonesia Cari Kodepos")
+![Pos Indonesia Kodepos](images/kantorpos.png "Pos Indonesia Cari Kodepos")
+
+&emsp;&emsp;&emsp;In [PosIndonesia](http://www.posindonesia.co.id/) website, a side menu is available for customers to serve several purposes. As the picture shown above, it gives a service to search for Postal Code in Indonesia. However, after choosing province, the next **step to search for city name is not available**. It only leaves a blank input text, for the user to input it himself. This turns out to be a bad idea since sometimes users can not remember the city name correctly, especially the one outside his region. **Solution is to give a drop-down select menu with search bar for user to search the city name (kota / kabupaten).** It also would be easier to give another dropdown to detect <em>kecamatan and kelurahan </em> so users can have post code correctly based on given address. In addition, after I try to search for Surabaya, it yields 404 Error Not Found. This will be a bad design because the service is not yet ready to be served to public.
+
+
+![Pos Indonesia Kodepos](images/kantorpos-1.png "Pos Indonesia Pos Order")
+
+&emsp;&emsp;&emsp;Another part bad design in the sidebar menu is the **logo of click here Pos Order**. It only show a logo asking to be clicked, without further description what is PosOrder. After the cursor hover to the logo, it shows a red drop shadow around the logo. The color pallette for drop shadow is not suitable since red color is usually used to show alert or danger. The solution is probably ** giving a tooltip to give brief explanation of PosOrder and change a hover drop shadow to a neutral color such as dark grey**.
